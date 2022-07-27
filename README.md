@@ -1,4 +1,4 @@
-<div width=150 height=auto>
+<div style="width=150;height=auto;">
   ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briangicharu&count_private=true)
  </div>
 <hr>
@@ -22,7 +22,7 @@
   <img alt="WHITE" src="https://wallpapercave.com/wp/wp6903417.jpg" width="10" height=auto>
 </a>
 <a href="https://www.sololearn.com/profile/10367617" target="_blank">
-  <img alt="sololearn" src="https://blob.sololearn.com/avatars/sololearn.png" width=auto" height="50">
+  <img alt="sololearn" src="https://blob.sololearn.com/avatars/sololearn.png" width=auto" height="55">
 </a>
 <a href="" target="_blank">                                                      
   <img alt="WHITE" src="https://wallpapercave.com/wp/wp6903417.jpg" width="10" height=auto>
