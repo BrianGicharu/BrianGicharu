@@ -1,4 +1,6 @@
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briangicharu&count_private=true)
+<div width=150 height=auto>
+  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briangicharu&count_private=true)
+ </div>
 <hr>
 <h2>LINKS TO MY PAGES</h2>
 <a href="https://www.linkedin.com/in/brian-gicharu-1ba35b209/" target="_blank">
