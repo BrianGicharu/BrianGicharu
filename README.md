@@ -36,9 +36,18 @@
 </a>
 <a href="https://api.whatsapp.com/send?phone=+254725200738&text=Hello%20I%20am%20texting%20to%20request%20for%20programming%20services" target="_blank">
   <img alt="whatsapp" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" width=auto" height="75">
+ </a>
 <hr>
 <table>
-<th>pro</th>
-<tr><td>hello</td> <td>world</td></tr>
+  <th><strong><i>INDEX</th> <th>PROGRAMMING LANGUAGE</th> <th>PROFICIENCY</strong></i></th>
+  <tr><td>1. </td> <td>Java</td> <td>Advanced</td></tr>
+  <tr><td>2. </td> <td>C</td> <td>Proficient</td></tr>
+  <tr><td>3. </td> <td>Python</td> <td>Advanced</td></tr>
+  <tr><td>4. </td> <td>Php</td> <td>Advanced</td></tr>
+  <tr><td>5. </td> <td>C++</td> <td>Proficient</td></tr>
+  <tr><td>6. </td> <td>Kotlin</td> <td>Advanced</td></tr>
+  <tr><td>7. </td> <td>Javascript</td> <td>Advanced</td></tr>
+  <tr><td>8. </td> <td>Flutter</td> <td>Advanced</td></tr>
+  <tr><td>9. </td> <td>Dart</td> <td>Advanced</td></tr>
 </table>
 <hr>
