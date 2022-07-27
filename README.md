@@ -39,8 +39,8 @@
  </a>
 <hr>
 <table>
-  <th><strong><i>INDEX</th> <th>PROGRAMMING LANGUAGE</th> <th>API and Frameworks</th> <th>PROFICIENCY</i></strong></th>
-  <tr><td>1. </td> <td>Java</td> <td>JDBC, Spring, Swing, JavaFX, Regex, TestNG, JUnit</td> <td>Advanced</td></tr>
+  <th><strong><i>INDEX</th> <th>PROGRAMMING LANGUAGE/ SKILL</th> <th>API and Frameworks</th> <th>PROFICIENCY</i></strong></th>
+  <tr><td>1. </td> <td>Java</td> <td>JDBC, Spring, Swing, JavaFX, Regex, TestNG, JUnit, Selenium webdriver</td> <td>Advanced</td></tr>
   <tr><td>2. </td> <td>C</td> <td>Advanced</td> <td>Proficient</td></tr>
   <tr><td>3. </td> <td>Python</td> <td>PyQt5, Selenium, Tkinter, Unittest & Pytest, Requests, Regex</td> <td>Advanced</td></tr>
   <tr><td>4. </td> <td>Php</td> <td>Laravel, Regex</td> <td>Advanced</td></tr>
@@ -50,5 +50,10 @@
   <tr><td>8. </td> <td>Flutter</td> <td></td> <td>Advanced</td></tr>
   <tr><td>9. </td> <td>Dart</td> <td></td> <td>Advanced</td></tr>
   <tr><td>10. </td> <td>SQL</td> <td>Stored procedures, triggers, joins, Regex</td> <td>Advanced</td></tr>
+  <tr><td>11. </td> <td>React & Redux</td> <td></td> <td>Advanced</td></tr>
+  <tr><td>12. </td> <td>C#</td> <td></td> <td>Intermediate</td></tr>
+  <tr><td>13. </td> <td>Android development</td> <td></td> <td>Advanced</td></tr>
+  <tr><td>14. </td> <td>Codeception</td> <td></td> <td>Advanced</td></tr>
+  <tr><td>15. </td> <td>Software general testing</td> <td></td> <td>Expert</td></tr>
 </table>
 <hr>
