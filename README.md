@@ -42,9 +42,9 @@
  </a>
 <hr>
 <table>
-  <th><strong><i>INDEX</th> <th>PROGRAMMING LANGUAGE/ SKILL</th> <th>API and Frameworks</th> <th>PROFICIENCY</i></strong></th>
+  <th><strong><i>INDEX</i></strong></th> <th><strong><i>PROGRAMMING LANGUAGE/ SKILL</i></strong></th> <th><strong><i>API and Frameworks</i></strong></th> <th><strong><i>PROFICIENCY</i></strong></th>
   <tr><td>1. </td> <td>Java</td> <td>JDBC, Spring, Swing, JavaFX, Regex, TestNG, JUnit, Selenium webdriver</td> <td>Advanced</td></tr>
-  <tr><td>2. </td> <td>C</td> <td>Advanced</td> <td>Proficient</td></tr>
+  <tr><td>2. </td> <td>C</td> <td></td> <td>Proficient</td></tr>
   <tr><td>3. </td> <td>Python</td> <td>PyQt5, Selenium, Tkinter, Unittest & Pytest, Requests, Regex</td> <td>Advanced</td></tr>
   <tr><td>4. </td> <td>Php</td> <td>Laravel, Regex</td> <td>Advanced</td></tr>
   <tr><td>5. </td> <td>C++</td> <td></td> <td>Proficient</td></tr>
